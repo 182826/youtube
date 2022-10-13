@@ -1,0 +1,40 @@
+p{
+    font-family:Roboto;
+}
+.video-title{
+font-size: 18px;
+font-weight: bold;
+width: 300px;
+line-height: 24px;
+margin-bottom: 5px;
+
+}
+</style>
+<style>
+.video-stats{
+    font-size: 14px;
+    color:rgb(171, 164, 153);
+    margin-top: 0;
+    margin-bottom: 20px;
+
+}
+
+</style>
+<style>
+.video-author{
+    color:rgb(171, 164, 153);
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+</style>
+<style>
+.video-description{
+    font-family: Arial;
+    font-size: 14px;
+    color:rgb(171, 164, 153);
+    width: 285px;
+    line-height: 22px;
+    margin-top: 22px;
+
+}
